@@ -34,3 +34,4 @@ IN CONCLUSION, THE CHROME EXTENSION FOR TIME TRACKING AND PRODUCTIVITY ANALYTICS
 
 #OUTPUT
 
+<img width="353" height="502" alt="Image" src="https://github.com/user-attachments/assets/fcc8442b-a25e-48ae-83b6-7c23915481fa" />
